@@ -9,3 +9,6 @@ File -->  Import.. --> Maven -> Existing Maven Projects
 
 While committing ignore target and test-output folder
 or add it in .gitignore file
+
+#To Run test
+Run as TestNG test
